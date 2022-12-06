@@ -1,5 +1,5 @@
 /**
- * This is one of the page object model's for the Nayya Choose Survey. This particular page will assert the bullet points on the 
+ * This is one of the page object models for the Nayya Choose Survey. This particular page will assert the bullet points on the 
  * Key Factors page.
  * Key Factors is a summary of what the user has submitted in the survey.
  * 
